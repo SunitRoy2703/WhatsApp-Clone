@@ -1,4 +1,4 @@
-### WhatsApp-Clone
+# WhatsApp-Clone
 
 ## Screenshots
 <img align="left" src="https://user-images.githubusercontent.com/67560900/113211047-935a9600-9292-11eb-9144-ffc9c846c734.jpeg" height="500em" />
